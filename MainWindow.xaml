@@ -10,5 +10,8 @@
         <Border Background="#5d2f27"/>
         <Border Background="#ffffff" VerticalAlignment="Center" HorizontalAlignment="Center" Width="400" Height="600" CornerRadius="20"/>
         <Label Content="Login" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 0, 0, 500" FontSize="35"/>
+        <TextBox Text="Hello" Width="350" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 0, 0, 300" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="17"/>
+        <TextBox Text="Hello" Width="350" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 0, 0, 100" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="17"/>
+        <Button Content="Login" Width="200" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0, 50, 0, 0" Background="#27555D" Foreground="#ffffff" FontSize="15"/>
     </Grid>
 </Window>
